@@ -1,5 +1,10 @@
 # HelloSpringBoot
 
+## Requirements
+
+1. Java
+2. Maven
+
 ## Building and running the web application
 
 The web application can be built using the command "mvn clean package"
